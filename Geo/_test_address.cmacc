@@ -1,0 +1,15 @@
+$ adr = [../Geo/USA/CA/San_Francisco/San_Francisco/BaySt/1550/Geo.cmacc];
+
+$ address = [./_adr_12.cmacc] => {
+	"adr" : adr
+};
+
+{{address}}
+
+
+
+
+
+
+
+

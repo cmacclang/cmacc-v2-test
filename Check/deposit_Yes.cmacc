@@ -1,0 +1,5 @@
+$ SCDL_Ti = "Upon Deposit";
+
+$ SCDL_1_sec = "B2 Create Provisional Credit to P2 Account";
+
+$ SCDL_2_sec = "B2 Initiate Presentment to B1"; 

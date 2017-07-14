@@ -1,0 +1,12 @@
+$ SCDL_Ti = "On Signing Payment Order  (Check)";
+
+$ SCDL_1_sec = "Validate Signature of P1.Signer";
+
+$ SCDL_2_sec = "Put a Reserve on the Account";
+
+$ SCDL_3_sec = "Set a Timer for Estimated Time Before Check is Presented";
+
+$ SCDL_4_sec = "B1 Sends Authenticated Copy of Signed Check to B2";
+
+$ SCDL_5_sec = "B2 Notifies P2 that Check is Available for Endorsement";
+

@@ -1,0 +1,8 @@
+$ person = [../FR/_individual.cmacc];
+
+$ adr_12 = [../Geo/FR/_adr_12.cmacc] => {
+	"adr" : entity.adr
+};
+
+{{person.name_Full}}, {{adr_12}}
+

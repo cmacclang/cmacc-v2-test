@@ -1,0 +1,72 @@
+$ Xnum = "Xnum";
+
+$ subject = "subject";
+
+$ info_Types = "info_Types";
+
+$ info_Examples = "info_Examples";
+
+$ conf_Infos = [./confid_Infos.cmacc] => {
+ "subject" : subject,
+ "info_Types" : info_Types,
+ "info_Examples" : info_Examples
+};
+
+$ def_Xnum = "1";
+
+$ define_Options = [./define_Options.cmacc];
+
+$ disclose_Type = "{{define_Options.mutual}}";
+
+$ define_Confid = [./define_Confid.cmacc] => {
+ "conf_Infos" : conf_Infos,
+ "disclose_Type" : define_Options.mutual
+};
+
+$ engage_Xnum = "2";
+
+$ engage = [./engage.cmacc] => {
+ "engage_Xnum" : engage_Xnum,
+ "Xnum" : Xnum
+};
+
+$ except_Xnum = "3";
+
+$ except_Item = [./except_WP_BP_Had.cmacc];
+
+$ except = [./except.cmacc] => {
+ "except_Item" : except_Item
+};
+
+$ except_Compeled_Xnum = "4";
+
+$ except_Compeled = [./except_Compeled.cmacc];
+
+$ copying_Xnum = "5";
+
+$ copying = [./copying.cmacc];
+
+$ decompile_Xnum = "6";
+
+$ decompile = [./decompile.cmacc];
+
+$ life_Xnum = "7";
+
+$ conf_Duration = "3 years";
+
+$ life = [./life_Defined_Duration.cmacc] => {
+ "conf_Duration" : conf_Duration,
+ "conf_except_Xref" : except_Xnum
+};
+
+
+<h3>{{Xnum}}. Confidentiality</h3>
+
+{{Xnum}}.{{def_Xnum}} {{define_Confid}}
+{{Xnum}}.{{engage_Xnum}} {{engage}}
+{{Xnum}}.{{except_Xnum}} {{except}}
+{{Xnum}}.{{except_Compeled_Xnum}} {{except_Compeled.ti}} 
+    {{except_Compeled.sec_1}}
+{{Xnum}}.{{copying_Xnum}} {{copying}}
+{{Xnum}}.{{decompile_Xnum}} {{decompile}}
+{{Xnum}}.{{life_Xnum}} {{life}}

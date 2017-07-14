@@ -1,0 +1,6 @@
+$ SCDL_Ti = "Upon Signature";
+
+$ SCDL_1_sec = "Validate Signature";
+
+$ SCDL_2_sec = "Notify for Deposit";
+ 

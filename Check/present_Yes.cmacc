@@ -1,0 +1,10 @@
+$ SCDL_Ti = "Presentment";
+
+$ SCDL_1_sec = "B2 Synchronizes Presentment Record with B1";
+
+$ SCDL_2_sec = "B1 Acknowledges to B2";
+
+$ SCDL_3_sec = "B2 Notifies P2";
+
+$ SCDL_4_sec = "B2 Sets timer on return of Acceptance from B1";
+

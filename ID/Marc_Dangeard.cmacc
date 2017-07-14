@@ -1,0 +1,9 @@
+$ namePrefix = "Mr."
+
+$ firstName = "Marc"
+
+$ lastName = "Dangeard"
+
+$ fullName = "{{firstName}} {{lastName}}"
+
+$ formalName = "{{namePrefix}} {{lastName}}"

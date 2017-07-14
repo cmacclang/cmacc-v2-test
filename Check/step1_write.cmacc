@@ -1,0 +1,54 @@
+$ bank1 = [../ID/BNP.cmacc];
+
+$ bank1_adr12 = [../Geo/FR/_adr_12.cmacc] => {
+	"adr" : bank1.adr
+};
+
+$ marie_matignon = [../ID/marie_matignon.cmacc];
+
+$ payfrom = [../FR/_entity_individual.cmacc] => {
+	"person" : marie_matignon,
+	"adr" : marie_matignon.adr,
+	"sign_Rep" : marie_matignon
+};
+
+$ payfrom_Adr = [../Geo/FR/_adr_12.cmacc] => {
+	"adr" : payfrom.adr
+};
+
+$ payfrom_Acct_ID_Num = [../Acct/BNP/1234/1234567890/acct.cmacc];
+
+$ marc_dangeard = [../ID/marc_dangeard.cmacc];
+
+$ payto = [../FR/_entity_individual.cmacc] => {
+	"person" : marc_dangeard,
+	"sign_Rep" : marc_dangeard
+};
+
+$ check_ID_Num = "101";
+
+$ amount_Text = "mille deux cent euros";
+
+$ amount_Num = "1200,00";
+
+$ sign_Date_YMD = "sign_Date_YMD";
+
+$ sign_Place = "sign_Place";
+
+$ action_Write = [./write_Yes.cmacc];
+
+$ check_Write = [./check_Form.cmacc] => {
+	"bank1" : bank1,
+	"party1" : payfrom,
+	"party1_Adr12" : payfrom_Adr,
+	"party1_Acct_ID_Num" : payfrom_Acct_ID_Num,
+	"party2" : payto,
+	"check_ID_Num" : check_ID_Num,
+	"amount_Text" : amount_Text,
+	"amount_Num" : amount_Num,
+	"sign_Place" : sign_Place,
+	"sign_Date_YMD" : sign_Date_YMD
+};
+
+
+{{check_Write}}

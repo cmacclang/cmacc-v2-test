@@ -1,0 +1,9 @@
+$ nom = "Louis"
+
+$ ville = "Lisbonne"
+
+$ phrase = [./demo.cmacc]
+$ phrase.nom = nom
+$ phrase.ville = ville
+
+{{phrase}}

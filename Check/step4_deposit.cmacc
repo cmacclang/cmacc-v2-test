@@ -1,0 +1,12 @@
+$ bank2 = [../ID/Orange_bank.cmacc];
+
+$ time_Endorse_YMDH = "2016-09-22 15:55";
+
+$ check_Endorsed = [./step3_endorse.cmacc];
+
+$ action_Deposit = [./deposit_Yes.cmacc];
+
+
+{{check_Endorsed}}
+---
+Deposited to {{bank2.name_Full}} at {{time_Endorse_YMDH}}

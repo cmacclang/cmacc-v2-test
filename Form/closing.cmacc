@@ -1,0 +1,10 @@
+$ party1 = [../US/_entity.cmacc]
+
+$ party2 = [../US/_entity.cmacc]
+
+$ signParty1 = [../US/_sign.cmacc]
+
+
+{{signParty1}}
+
+

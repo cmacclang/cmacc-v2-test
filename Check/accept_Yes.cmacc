@@ -1,0 +1,22 @@
+$ SCDL_Ti = "Acceptance";
+
+$ SCDL_1_Ti = "Transfer Funds from the provisional charge on P1 Account to the B1 Account";
+
+$ SCDL_1_sec = "QmbEN3CyWEkfubkR7N6iNXH55JTQm4crpm9X5HsKZmJdDA";
+
+$ SCDL_2_Ti = "Synchronize Acceptance Notice with B2";
+
+$ SCDL_2_sec = "QmPMgEo5od4kfAhQ7yvK77NkWe1u8tVpXBdxkozefR7Xri";
+
+$ SCDL_3_Ti = "Transfer Funds from B1 Master Account to B2 Master Account";
+
+$ SCDL_3_sec = "QmQJH69tXbg2rVw593gWCZXJHyoLu4YveprtCX4MWfEoFF";
+
+$ SCDL_4_Ti = "B1 Notify P1";
+
+$ SCDL_4_sec = "QmX1XTHsRZPMxosvewKBm9vaQwkyQg3Fx9Vw7WPvSfnJkq";
+
+$ SCDL_5_Ti = "B2 Notify P2";
+
+$ SCDL_5_sec = "QmbEN3CyWEkfubkR7N6iNXH55JTQm4crpm9X5HsKZmJdDA";
+

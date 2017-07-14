@@ -1,0 +1,2480 @@
+{
+    "doc_Title": {
+        "$$str$$": "Non Disclosure Agreement"
+    },
+    "effective_Date": {
+        "$$str$$": "Effective_Date"
+    },
+    "p1": {
+        "name_Full": {
+            "$$str$$": "Gerry's Grapes, LLC2"
+        },
+        "name_Dear": {
+            "$$str$$": "Gerry's Grapes"
+        },
+        "entity_a": {
+            "$$str$$": "a Massachusetts LLC"
+        },
+        "adr_Type": {
+            "$$str$$": "business"
+        },
+        "claim_Response_Delay": {
+            "$$str$$": "two business days from the date of the Claim"
+        },
+        "adr": {
+            "streetnum": {
+                "$$str$$": "1"
+            },
+            "zip": {
+                "$$str$$": "02142"
+            },
+            "street": {
+                "name": {
+                    "$$str$$": "Broadway St"
+                },
+                "city": {
+                    "name": {
+                        "$$str$$": "Cambridge"
+                    },
+                    "county": {
+                        "name": {
+                            "$$str$$": "Middlesex"
+                        },
+                        "state": {
+                            "name": {
+                                "$$str$$": "Massachusetts"
+                            },
+                            "statecode": {
+                                "$$str$$": "MA"
+                            },
+                            "flower": {
+                                "$$str$$": "Mayflower"
+                            },
+                            "constitution": {
+                                "$$str$$": "Constitution of the Commonwealth of Massachusetts"
+                            },
+                            "country": {
+                                "name": {
+                                    "$$str$$": "United States of America"
+                                },
+                                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA.cmacc"
+                            },
+                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/MA.cmacc"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/MA/Middlesex.cmacc"
+                    },
+                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/MA/Middlesex/Cambridge.cmacc"
+                },
+                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/MA/Middlesex/Cambridge/BroadwaySt.cmacc"
+            },
+            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/MA/Middlesex/Cambridge/BroadwaySt/1/Geo.cmacc"
+        },
+        "sign_RepTitle": {
+            "$$str$$": "Founder"
+        },
+        "sign_Rep": {
+            "name_First": {
+                "$$str$$": "Geraldine"
+            },
+            "name_Last": {
+                "$$str$$": "Graber"
+            },
+            "name_Full": {
+                "$$str$$": "{{name_First}} {{name_Last}}"
+            },
+            "name_Formal": {
+                "$$str$$": "Ms. Graber"
+            },
+            "adr_Type": {
+                "$$str$$": "business"
+            },
+            "email_Bus": {
+                "$$str$$": "gerry@gerrysgrapes.com"
+            },
+            "adr": {
+                "streetnum": {
+                    "$$str$$": "1"
+                },
+                "zip": {
+                    "$$str$$": "02142"
+                },
+                "street": {
+                    "name": {
+                        "$$str$$": "Broadway St"
+                    },
+                    "city": {
+                        "name": {
+                            "$$str$$": "Cambridge"
+                        },
+                        "county": {
+                            "name": {
+                                "$$str$$": "Middlesex"
+                            },
+                            "state": {
+                                "name": {
+                                    "$$str$$": "Massachusetts"
+                                },
+                                "statecode": {
+                                    "$$str$$": "MA"
+                                },
+                                "flower": {
+                                    "$$str$$": "Mayflower"
+                                },
+                                "constitution": {
+                                    "$$str$$": "Constitution of the Commonwealth of Massachusetts"
+                                },
+                                "country": {
+                                    "name": {
+                                        "$$str$$": "United States of America"
+                                    },
+                                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA.cmacc"
+                                },
+                                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/MA.cmacc"
+                            },
+                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/MA/Middlesex.cmacc"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/MA/Middlesex/Cambridge.cmacc"
+                    },
+                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/MA/Middlesex/Cambridge/BroadwaySt.cmacc"
+                },
+                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/MA/Middlesex/Cambridge/BroadwaySt/1/Geo.cmacc"
+            },
+            "Sign_RepTitle": {
+                "$$str$$": "Self"
+            },
+            "pron": {
+                "meus": {
+                    "$$str$$": "me"
+                },
+                "Iwe": {
+                    "$$str$$": "I"
+                },
+                "myour": {
+                    "$$str$$": "my"
+                },
+                "IWe": {
+                    "$$str$$": "I"
+                },
+                "MyOur": {
+                    "$$str$$": "My"
+                },
+                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Form/_sing.cmacc"
+            },
+            "gender": {
+                "he_she": {
+                    "$$str$$": "she"
+                },
+                "his_her": {
+                    "$$str$$": "her"
+                },
+                "He_She": {
+                    "$$str$$": "She"
+                },
+                "His_Her": {
+                    "$$str$$": "Her"
+                },
+                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/ID/gender/she.cmacc"
+            },
+            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/ID/geraldine_graber.cmacc"
+        },
+        "pron": {
+            "meus": {
+                "$$str$$": "us"
+            },
+            "Iwe": {
+                "$$str$$": "we"
+            },
+            "myour": {
+                "$$str$$": "our"
+            },
+            "IWe": {
+                "$$str$$": "We"
+            },
+            "MyOur": {
+                "$$str$$": "Our"
+            },
+            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Form/_plur.cmacc"
+        },
+        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/ID/gerrys_grapes_llc.cmacc"
+    },
+    "p2": {
+        "name_Full": {
+            "$$str$$": "Safe Hands Facilitated Transactions, Inc."
+        },
+        "name_Dear": {
+            "$$str$$": "Safe Hands Facilitated Transactions"
+        },
+        "entity_a": {
+            "$$str$$": "a Delaware corporation"
+        },
+        "adr": {
+            "streetnum": {
+                "$$str$$": "1150"
+            },
+            "zip": {
+                "$$str$$": "94123"
+            },
+            "street": {
+                "name": {
+                    "$$str$$": "Bay St"
+                },
+                "city": {
+                    "name": {
+                        "$$str$$": "San Francisco"
+                    },
+                    "county": {
+                        "name": {
+                            "$$str$$": "County of San Francisco"
+                        },
+                        "state": {
+                            "name": {
+                                "$$str$$": "California"
+                            },
+                            "statecode": {
+                                "$$str$$": "CA"
+                            },
+                            "flower": {
+                                "$$str$$": "Golden Poppy"
+                            },
+                            "country": {
+                                "name": {
+                                    "$$str$$": "United States of America"
+                                },
+                                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA.cmacc"
+                            },
+                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/CA.cmacc"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/CA/San_Francisco.cmacc"
+                    },
+                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/CA/San_Francisco/San_Francisco.cmacc"
+                },
+                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/CA/San_Francisco/San_Francisco/BaySt.cmacc"
+            },
+            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/CA/San_Francisco/San_Francisco/BaySt/1550/Geo.cmacc"
+        },
+        "adr_Type": {
+            "$$str$$": "principal"
+        },
+        "sign_RepTitle": {
+            "$$str$$": "COO"
+        },
+        "sign_Rep": {
+            "name_First": {
+                "$$str$$": "Samuel"
+            },
+            "name_Last": {
+                "$$str$$": "Hardy"
+            },
+            "name_Full": {
+                "$$str$$": "{{name_First}} {{name_Last}}"
+            },
+            "gender": {
+                "he_she": {
+                    "$$str$$": "he"
+                },
+                "his_her": {
+                    "$$str$$": "his"
+                },
+                "He_She": {
+                    "$$str$$": "He"
+                },
+                "His_Her": {
+                    "$$str$$": "His"
+                },
+                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/ID/gender/He.cmacc"
+            },
+            "adr": {
+                "streetnum": {
+                    "$$str$$": "1101"
+                },
+                "zip": {
+                    "$$str$$": "94103"
+                },
+                "street": {
+                    "name": {
+                        "$$str$$": "Mission St"
+                    },
+                    "city": {
+                        "name": {
+                            "$$str$$": "San Francisco"
+                        },
+                        "county": {
+                            "name": {
+                                "$$str$$": "County of San Francisco"
+                            },
+                            "state": {
+                                "name": {
+                                    "$$str$$": "California"
+                                },
+                                "statecode": {
+                                    "$$str$$": "CA"
+                                },
+                                "flower": {
+                                    "$$str$$": "Golden Poppy"
+                                },
+                                "country": {
+                                    "name": {
+                                        "$$str$$": "United States of America"
+                                    },
+                                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA.cmacc"
+                                },
+                                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/CA.cmacc"
+                            },
+                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/CA/San_Francisco.cmacc"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/CA/San_Francisco/San_Francisco.cmacc"
+                    },
+                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/CA/San_Francisco/San_Francisco/MissionSt.cmacc"
+                },
+                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/CA/San_Francisco/San_Francisco/MissionSt/1101/Geo.cmacc"
+            },
+            "adr_Type": {
+                "$$str$$": "business"
+            },
+            "sign_RepTitle": {
+                "$$str$$": "Self"
+            },
+            "pron": {
+                "meus": {
+                    "$$str$$": "me"
+                },
+                "Iwe": {
+                    "$$str$$": "I"
+                },
+                "myour": {
+                    "$$str$$": "my"
+                },
+                "IWe": {
+                    "$$str$$": "I"
+                },
+                "MyOur": {
+                    "$$str$$": "My"
+                },
+                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Form/_sing.cmacc"
+            },
+            "name_Formal": {
+                "$$str$$": "M. Hardy"
+            },
+            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/ID/samuel_hardy.cmacc"
+        },
+        "pron": {
+            "meus": {
+                "$$str$$": "us"
+            },
+            "Iwe": {
+                "$$str$$": "we"
+            },
+            "myour": {
+                "$$str$$": "our"
+            },
+            "IWe": {
+                "$$str$$": "We"
+            },
+            "MyOur": {
+                "$$str$$": "Our"
+            },
+            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Form/_plur.cmacc"
+        },
+        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/ID/safe_hands_inc.cmacc"
+    },
+    "intro": {
+        "p1": {
+            "name_Full": {
+                "$$str$$": "name_Full"
+            },
+            "name_Dear": {
+                "$$str$$": "name_Dear"
+            },
+            "gov_ID_Num": {
+                "$$str$$": "gov_ID_Num"
+            },
+            "entity_a": {
+                "$$str$$": "entity_a"
+            },
+            "adr": {
+                "streetnum": {
+                    "$$str$$": "streetnum"
+                },
+                "zip": {
+                    "$$str$$": "zip"
+                },
+                "street": {
+                    "name": {
+                        "$$str$$": "street"
+                    },
+                    "city": {
+                        "name": {
+                            "$$str$$": "city"
+                        },
+                        "county": {
+                            "name": {
+                                "$$str$$": "county"
+                            },
+                            "state": {
+                                "name": {
+                                    "$$str$$": "state"
+                                },
+                                "statecode": {
+                                    "$$str$$": "statecode"
+                                },
+                                "flower": {
+                                    "$$str$$": "flower"
+                                },
+                                "country": {
+                                    "name": {
+                                        "$$str$$": "country"
+                                    },
+                                    "$$text$$": "This {{name}}",
+                                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/_country.cmacc"
+                                },
+                                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/_state.cmacc"
+                            },
+                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/_county.cmacc"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/_city.cmacc"
+                    },
+                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/_street.cmacc"
+                },
+                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/street/streetnum/_geo.cmacc"
+            },
+            "adr_Type": {
+                "$$str$$": "adr_Type"
+            },
+            "contact_Name_Formal": {
+                "$$str$$": "contact_Name_Formal"
+            },
+            "sign_Rep": {
+                "name_First": {
+                    "$$str$$": "name_First"
+                },
+                "name_Last": {
+                    "$$str$$": "name_Last"
+                },
+                "name_Formal": {
+                    "$$str$$": "contact_Name_Formal"
+                },
+                "name_Full": {
+                    "$$str$$": "{{name_First}} {{name_Last}}"
+                },
+                "sign_Title": {
+                    "$$str$$": "sign_Title"
+                },
+                "adr": {
+                    "streetnum": {
+                        "$$str$$": "streetnum"
+                    },
+                    "zip": {
+                        "$$str$$": "zip"
+                    },
+                    "street": {
+                        "name": {
+                            "$$str$$": "street"
+                        },
+                        "city": {
+                            "name": {
+                                "$$str$$": "city"
+                            },
+                            "county": {
+                                "name": {
+                                    "$$str$$": "county"
+                                },
+                                "state": {
+                                    "name": {
+                                        "$$str$$": "state"
+                                    },
+                                    "statecode": {
+                                        "$$str$$": "statecode"
+                                    },
+                                    "flower": {
+                                        "$$str$$": "flower"
+                                    },
+                                    "country": {
+                                        "name": {
+                                            "$$str$$": "country"
+                                        },
+                                        "$$text$$": "This {{name}}",
+                                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/_country.cmacc"
+                                    },
+                                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/_state.cmacc"
+                                },
+                                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/_county.cmacc"
+                            },
+                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/_city.cmacc"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/_street.cmacc"
+                    },
+                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/street/streetnum/_geo.cmacc"
+                },
+                "adr_Type": {
+                    "$$str$$": "adr_Type"
+                },
+                "pron": {
+                    "meus": {
+                        "$$str$$": "me"
+                    },
+                    "Iwe": {
+                        "$$str$$": "I"
+                    },
+                    "myour": {
+                        "$$str$$": "my"
+                    },
+                    "IWe": {
+                        "$$str$$": "I"
+                    },
+                    "MyOur": {
+                        "$$str$$": "My"
+                    },
+                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/US/_sing.cmacc"
+                },
+                "gender": {
+                    "he_she": {
+                        "$$str$$": "he/she"
+                    },
+                    "his_her": {
+                        "$$str$$": "his/her"
+                    },
+                    "He_She": {
+                        "$$str$$": "He/She"
+                    },
+                    "His_Her": {
+                        "$$str$$": "His/Her"
+                    },
+                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/ID/gender/_gender.cmacc"
+                },
+                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/US/_individual.cmacc"
+            },
+            "sign_Title": {
+                "$$str$$": "sign_Title"
+            },
+            "pron": {
+                "meus": {
+                    "$$str$$": "me/us"
+                },
+                "Iwe": {
+                    "$$str$$": "I/we"
+                },
+                "myour": {
+                    "$$str$$": "my/our"
+                },
+                "IWe": {
+                    "$$str$$": "I/We"
+                },
+                "MyOur": {
+                    "$$str$$": "My/Our"
+                },
+                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/US/_pron.cmacc"
+            },
+            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/US/_entity.cmacc"
+        },
+        "p2": {
+            "name_Full": {
+                "$$str$$": "name_Full"
+            },
+            "name_Dear": {
+                "$$str$$": "name_Dear"
+            },
+            "gov_ID_Num": {
+                "$$str$$": "gov_ID_Num"
+            },
+            "entity_a": {
+                "$$str$$": "entity_a"
+            },
+            "adr": {
+                "streetnum": {
+                    "$$str$$": "streetnum"
+                },
+                "zip": {
+                    "$$str$$": "zip"
+                },
+                "street": {
+                    "name": {
+                        "$$str$$": "street"
+                    },
+                    "city": {
+                        "name": {
+                            "$$str$$": "city"
+                        },
+                        "county": {
+                            "name": {
+                                "$$str$$": "county"
+                            },
+                            "state": {
+                                "name": {
+                                    "$$str$$": "state"
+                                },
+                                "statecode": {
+                                    "$$str$$": "statecode"
+                                },
+                                "flower": {
+                                    "$$str$$": "flower"
+                                },
+                                "country": {
+                                    "name": {
+                                        "$$str$$": "country"
+                                    },
+                                    "$$text$$": "This {{name}}",
+                                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/_country.cmacc"
+                                },
+                                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/_state.cmacc"
+                            },
+                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/_county.cmacc"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/_city.cmacc"
+                    },
+                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/_street.cmacc"
+                },
+                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/street/streetnum/_geo.cmacc"
+            },
+            "adr_Type": {
+                "$$str$$": "adr_Type"
+            },
+            "contact_Name_Formal": {
+                "$$str$$": "contact_Name_Formal"
+            },
+            "sign_Rep": {
+                "name_First": {
+                    "$$str$$": "name_First"
+                },
+                "name_Last": {
+                    "$$str$$": "name_Last"
+                },
+                "name_Formal": {
+                    "$$str$$": "contact_Name_Formal"
+                },
+                "name_Full": {
+                    "$$str$$": "{{name_First}} {{name_Last}}"
+                },
+                "sign_Title": {
+                    "$$str$$": "sign_Title"
+                },
+                "adr": {
+                    "streetnum": {
+                        "$$str$$": "streetnum"
+                    },
+                    "zip": {
+                        "$$str$$": "zip"
+                    },
+                    "street": {
+                        "name": {
+                            "$$str$$": "street"
+                        },
+                        "city": {
+                            "name": {
+                                "$$str$$": "city"
+                            },
+                            "county": {
+                                "name": {
+                                    "$$str$$": "county"
+                                },
+                                "state": {
+                                    "name": {
+                                        "$$str$$": "state"
+                                    },
+                                    "statecode": {
+                                        "$$str$$": "statecode"
+                                    },
+                                    "flower": {
+                                        "$$str$$": "flower"
+                                    },
+                                    "country": {
+                                        "name": {
+                                            "$$str$$": "country"
+                                        },
+                                        "$$text$$": "This {{name}}",
+                                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/_country.cmacc"
+                                    },
+                                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/_state.cmacc"
+                                },
+                                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/_county.cmacc"
+                            },
+                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/_city.cmacc"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/_street.cmacc"
+                    },
+                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/street/streetnum/_geo.cmacc"
+                },
+                "adr_Type": {
+                    "$$str$$": "adr_Type"
+                },
+                "pron": {
+                    "meus": {
+                        "$$str$$": "me"
+                    },
+                    "Iwe": {
+                        "$$str$$": "I"
+                    },
+                    "myour": {
+                        "$$str$$": "my"
+                    },
+                    "IWe": {
+                        "$$str$$": "I"
+                    },
+                    "MyOur": {
+                        "$$str$$": "My"
+                    },
+                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/US/_sing.cmacc"
+                },
+                "gender": {
+                    "he_she": {
+                        "$$str$$": "he/she"
+                    },
+                    "his_her": {
+                        "$$str$$": "his/her"
+                    },
+                    "He_She": {
+                        "$$str$$": "He/She"
+                    },
+                    "His_Her": {
+                        "$$str$$": "His/Her"
+                    },
+                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/ID/gender/_gender.cmacc"
+                },
+                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/US/_individual.cmacc"
+            },
+            "sign_Title": {
+                "$$str$$": "sign_Title"
+            },
+            "pron": {
+                "meus": {
+                    "$$str$$": "me/us"
+                },
+                "Iwe": {
+                    "$$str$$": "I/we"
+                },
+                "myour": {
+                    "$$str$$": "my/our"
+                },
+                "IWe": {
+                    "$$str$$": "I/We"
+                },
+                "MyOur": {
+                    "$$str$$": "My/Our"
+                },
+                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/US/_pron.cmacc"
+            },
+            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/US/_entity.cmacc"
+        },
+        "p1_NEA": {
+            "entity": {
+                "name_Full": {
+                    "$$str$$": "name_Full"
+                },
+                "name_Dear": {
+                    "$$str$$": "name_Dear"
+                },
+                "gov_ID_Num": {
+                    "$$str$$": "gov_ID_Num"
+                },
+                "entity_a": {
+                    "$$str$$": "entity_a"
+                },
+                "adr": {
+                    "streetnum": {
+                        "$$str$$": "streetnum"
+                    },
+                    "zip": {
+                        "$$str$$": "zip"
+                    },
+                    "street": {
+                        "name": {
+                            "$$str$$": "street"
+                        },
+                        "city": {
+                            "name": {
+                                "$$str$$": "city"
+                            },
+                            "county": {
+                                "name": {
+                                    "$$str$$": "county"
+                                },
+                                "state": {
+                                    "name": {
+                                        "$$str$$": "state"
+                                    },
+                                    "statecode": {
+                                        "$$str$$": "statecode"
+                                    },
+                                    "flower": {
+                                        "$$str$$": "flower"
+                                    },
+                                    "country": {
+                                        "name": {
+                                            "$$str$$": "country"
+                                        },
+                                        "$$text$$": "This {{name}}",
+                                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/_country.cmacc"
+                                    },
+                                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/_state.cmacc"
+                                },
+                                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/_county.cmacc"
+                            },
+                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/_city.cmacc"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/_street.cmacc"
+                    },
+                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/street/streetnum/_geo.cmacc"
+                },
+                "adr_Type": {
+                    "$$str$$": "adr_Type"
+                },
+                "contact_Name_Formal": {
+                    "$$str$$": "contact_Name_Formal"
+                },
+                "sign_Rep": {
+                    "name_First": {
+                        "$$str$$": "name_First"
+                    },
+                    "name_Last": {
+                        "$$str$$": "name_Last"
+                    },
+                    "name_Formal": {
+                        "$$str$$": "contact_Name_Formal"
+                    },
+                    "name_Full": {
+                        "$$str$$": "{{name_First}} {{name_Last}}"
+                    },
+                    "sign_Title": {
+                        "$$str$$": "sign_Title"
+                    },
+                    "adr": {
+                        "streetnum": {
+                            "$$str$$": "streetnum"
+                        },
+                        "zip": {
+                            "$$str$$": "zip"
+                        },
+                        "street": {
+                            "name": {
+                                "$$str$$": "street"
+                            },
+                            "city": {
+                                "name": {
+                                    "$$str$$": "city"
+                                },
+                                "county": {
+                                    "name": {
+                                        "$$str$$": "county"
+                                    },
+                                    "state": {
+                                        "name": {
+                                            "$$str$$": "state"
+                                        },
+                                        "statecode": {
+                                            "$$str$$": "statecode"
+                                        },
+                                        "flower": {
+                                            "$$str$$": "flower"
+                                        },
+                                        "country": {
+                                            "name": {
+                                                "$$str$$": "country"
+                                            },
+                                            "$$text$$": "This {{name}}",
+                                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/_country.cmacc"
+                                        },
+                                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/_state.cmacc"
+                                    },
+                                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/_county.cmacc"
+                                },
+                                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/_city.cmacc"
+                            },
+                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/_street.cmacc"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/street/streetnum/_geo.cmacc"
+                    },
+                    "adr_Type": {
+                        "$$str$$": "adr_Type"
+                    },
+                    "pron": {
+                        "meus": {
+                            "$$str$$": "me"
+                        },
+                        "Iwe": {
+                            "$$str$$": "I"
+                        },
+                        "myour": {
+                            "$$str$$": "my"
+                        },
+                        "IWe": {
+                            "$$str$$": "I"
+                        },
+                        "MyOur": {
+                            "$$str$$": "My"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/US/_sing.cmacc"
+                    },
+                    "gender": {
+                        "he_she": {
+                            "$$str$$": "he/she"
+                        },
+                        "his_her": {
+                            "$$str$$": "his/her"
+                        },
+                        "He_She": {
+                            "$$str$$": "He/She"
+                        },
+                        "His_Her": {
+                            "$$str$$": "His/Her"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/ID/gender/_gender.cmacc"
+                    },
+                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/US/_individual.cmacc"
+                },
+                "sign_Title": {
+                    "$$str$$": "sign_Title"
+                },
+                "pron": {
+                    "meus": {
+                        "$$str$$": "me/us"
+                    },
+                    "Iwe": {
+                        "$$str$$": "I/we"
+                    },
+                    "myour": {
+                        "$$str$$": "my/our"
+                    },
+                    "IWe": {
+                        "$$str$$": "I/We"
+                    },
+                    "MyOur": {
+                        "$$str$$": "My/Our"
+                    },
+                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/US/_pron.cmacc"
+                },
+                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/US/_entity.cmacc"
+            },
+            "adr_12": {
+                "adr": {
+                    "streetnum": {
+                        "$$str$$": "streetnum"
+                    },
+                    "zip": {
+                        "$$str$$": "zip"
+                    },
+                    "street": {
+                        "name": {
+                            "$$str$$": "street"
+                        },
+                        "city": {
+                            "name": {
+                                "$$str$$": "city"
+                            },
+                            "county": {
+                                "name": {
+                                    "$$str$$": "county"
+                                },
+                                "state": {
+                                    "name": {
+                                        "$$str$$": "state"
+                                    },
+                                    "statecode": {
+                                        "$$str$$": "statecode"
+                                    },
+                                    "flower": {
+                                        "$$str$$": "flower"
+                                    },
+                                    "country": {
+                                        "name": {
+                                            "$$str$$": "country"
+                                        },
+                                        "$$text$$": "This {{name}}",
+                                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/_country.cmacc"
+                                    },
+                                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/_state.cmacc"
+                                },
+                                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/_county.cmacc"
+                            },
+                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/_city.cmacc"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/_street.cmacc"
+                    },
+                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/street/streetnum/_geo.cmacc"
+                },
+                "$$text$$": "{{adr.streetnum}} {{adr.street.name}}, {{adr.street.city.name}}, {{adr.street.city.county.state.statecode}} {{adr.zip}}\n\n\n\n\n\n\n",
+                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/_adr_12.cmacc",
+                "$$mrg$$": {
+                    "adr": {
+                        "streetnum": {
+                            "$$str$$": "streetnum"
+                        },
+                        "zip": {
+                            "$$str$$": "zip"
+                        },
+                        "street": {
+                            "name": {
+                                "$$str$$": "street"
+                            },
+                            "city": {
+                                "name": {
+                                    "$$str$$": "city"
+                                },
+                                "county": {
+                                    "name": {
+                                        "$$str$$": "county"
+                                    },
+                                    "state": {
+                                        "name": {
+                                            "$$str$$": "state"
+                                        },
+                                        "statecode": {
+                                            "$$str$$": "statecode"
+                                        },
+                                        "flower": {
+                                            "$$str$$": "flower"
+                                        },
+                                        "country": {
+                                            "name": {
+                                                "$$str$$": "country"
+                                            },
+                                            "$$text$$": "This {{name}}",
+                                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/_country.cmacc"
+                                        },
+                                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/_state.cmacc"
+                                    },
+                                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/_county.cmacc"
+                                },
+                                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/_city.cmacc"
+                            },
+                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/_street.cmacc"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/street/streetnum/_geo.cmacc"
+                    }
+                }
+            },
+            "$$text$$": "{{entity.name_Full}}, {{entity.entity_a}} whose {{entity.adr_Type}} address is {{adr_12}}\n",
+            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/US/_entity_NEA.cmacc",
+            "$$mrg$$": {
+                "entity": {
+                    "name_Full": {
+                        "$$str$$": "name_Full"
+                    },
+                    "name_Dear": {
+                        "$$str$$": "name_Dear"
+                    },
+                    "gov_ID_Num": {
+                        "$$str$$": "gov_ID_Num"
+                    },
+                    "entity_a": {
+                        "$$str$$": "entity_a"
+                    },
+                    "adr": {
+                        "streetnum": {
+                            "$$str$$": "streetnum"
+                        },
+                        "zip": {
+                            "$$str$$": "zip"
+                        },
+                        "street": {
+                            "name": {
+                                "$$str$$": "street"
+                            },
+                            "city": {
+                                "name": {
+                                    "$$str$$": "city"
+                                },
+                                "county": {
+                                    "name": {
+                                        "$$str$$": "county"
+                                    },
+                                    "state": {
+                                        "name": {
+                                            "$$str$$": "state"
+                                        },
+                                        "statecode": {
+                                            "$$str$$": "statecode"
+                                        },
+                                        "flower": {
+                                            "$$str$$": "flower"
+                                        },
+                                        "country": {
+                                            "name": {
+                                                "$$str$$": "country"
+                                            },
+                                            "$$text$$": "This {{name}}",
+                                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/_country.cmacc"
+                                        },
+                                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/_state.cmacc"
+                                    },
+                                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/_county.cmacc"
+                                },
+                                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/_city.cmacc"
+                            },
+                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/_street.cmacc"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/street/streetnum/_geo.cmacc"
+                    },
+                    "adr_Type": {
+                        "$$str$$": "adr_Type"
+                    },
+                    "contact_Name_Formal": {
+                        "$$str$$": "contact_Name_Formal"
+                    },
+                    "sign_Rep": {
+                        "name_First": {
+                            "$$str$$": "name_First"
+                        },
+                        "name_Last": {
+                            "$$str$$": "name_Last"
+                        },
+                        "name_Formal": {
+                            "$$str$$": "contact_Name_Formal"
+                        },
+                        "name_Full": {
+                            "$$str$$": "{{name_First}} {{name_Last}}"
+                        },
+                        "sign_Title": {
+                            "$$str$$": "sign_Title"
+                        },
+                        "adr": {
+                            "streetnum": {
+                                "$$str$$": "streetnum"
+                            },
+                            "zip": {
+                                "$$str$$": "zip"
+                            },
+                            "street": {
+                                "name": {
+                                    "$$str$$": "street"
+                                },
+                                "city": {
+                                    "name": {
+                                        "$$str$$": "city"
+                                    },
+                                    "county": {
+                                        "name": {
+                                            "$$str$$": "county"
+                                        },
+                                        "state": {
+                                            "name": {
+                                                "$$str$$": "state"
+                                            },
+                                            "statecode": {
+                                                "$$str$$": "statecode"
+                                            },
+                                            "flower": {
+                                                "$$str$$": "flower"
+                                            },
+                                            "country": {
+                                                "name": {
+                                                    "$$str$$": "country"
+                                                },
+                                                "$$text$$": "This {{name}}",
+                                                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/_country.cmacc"
+                                            },
+                                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/_state.cmacc"
+                                        },
+                                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/_county.cmacc"
+                                    },
+                                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/_city.cmacc"
+                                },
+                                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/_street.cmacc"
+                            },
+                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/street/streetnum/_geo.cmacc"
+                        },
+                        "adr_Type": {
+                            "$$str$$": "adr_Type"
+                        },
+                        "pron": {
+                            "meus": {
+                                "$$str$$": "me"
+                            },
+                            "Iwe": {
+                                "$$str$$": "I"
+                            },
+                            "myour": {
+                                "$$str$$": "my"
+                            },
+                            "IWe": {
+                                "$$str$$": "I"
+                            },
+                            "MyOur": {
+                                "$$str$$": "My"
+                            },
+                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/US/_sing.cmacc"
+                        },
+                        "gender": {
+                            "he_she": {
+                                "$$str$$": "he/she"
+                            },
+                            "his_her": {
+                                "$$str$$": "his/her"
+                            },
+                            "He_She": {
+                                "$$str$$": "He/She"
+                            },
+                            "His_Her": {
+                                "$$str$$": "His/Her"
+                            },
+                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/ID/gender/_gender.cmacc"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/US/_individual.cmacc"
+                    },
+                    "sign_Title": {
+                        "$$str$$": "sign_Title"
+                    },
+                    "pron": {
+                        "meus": {
+                            "$$str$$": "me/us"
+                        },
+                        "Iwe": {
+                            "$$str$$": "I/we"
+                        },
+                        "myour": {
+                            "$$str$$": "my/our"
+                        },
+                        "IWe": {
+                            "$$str$$": "I/We"
+                        },
+                        "MyOur": {
+                            "$$str$$": "My/Our"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/US/_pron.cmacc"
+                    },
+                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/US/_entity.cmacc"
+                }
+            }
+        },
+        "p2_NEA": {
+            "entity": {
+                "name_Full": {
+                    "$$str$$": "name_Full"
+                },
+                "name_Dear": {
+                    "$$str$$": "name_Dear"
+                },
+                "gov_ID_Num": {
+                    "$$str$$": "gov_ID_Num"
+                },
+                "entity_a": {
+                    "$$str$$": "entity_a"
+                },
+                "adr": {
+                    "streetnum": {
+                        "$$str$$": "streetnum"
+                    },
+                    "zip": {
+                        "$$str$$": "zip"
+                    },
+                    "street": {
+                        "name": {
+                            "$$str$$": "street"
+                        },
+                        "city": {
+                            "name": {
+                                "$$str$$": "city"
+                            },
+                            "county": {
+                                "name": {
+                                    "$$str$$": "county"
+                                },
+                                "state": {
+                                    "name": {
+                                        "$$str$$": "state"
+                                    },
+                                    "statecode": {
+                                        "$$str$$": "statecode"
+                                    },
+                                    "flower": {
+                                        "$$str$$": "flower"
+                                    },
+                                    "country": {
+                                        "name": {
+                                            "$$str$$": "country"
+                                        },
+                                        "$$text$$": "This {{name}}",
+                                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/_country.cmacc"
+                                    },
+                                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/_state.cmacc"
+                                },
+                                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/_county.cmacc"
+                            },
+                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/_city.cmacc"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/_street.cmacc"
+                    },
+                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/street/streetnum/_geo.cmacc"
+                },
+                "adr_Type": {
+                    "$$str$$": "adr_Type"
+                },
+                "contact_Name_Formal": {
+                    "$$str$$": "contact_Name_Formal"
+                },
+                "sign_Rep": {
+                    "name_First": {
+                        "$$str$$": "name_First"
+                    },
+                    "name_Last": {
+                        "$$str$$": "name_Last"
+                    },
+                    "name_Formal": {
+                        "$$str$$": "contact_Name_Formal"
+                    },
+                    "name_Full": {
+                        "$$str$$": "{{name_First}} {{name_Last}}"
+                    },
+                    "sign_Title": {
+                        "$$str$$": "sign_Title"
+                    },
+                    "adr": {
+                        "streetnum": {
+                            "$$str$$": "streetnum"
+                        },
+                        "zip": {
+                            "$$str$$": "zip"
+                        },
+                        "street": {
+                            "name": {
+                                "$$str$$": "street"
+                            },
+                            "city": {
+                                "name": {
+                                    "$$str$$": "city"
+                                },
+                                "county": {
+                                    "name": {
+                                        "$$str$$": "county"
+                                    },
+                                    "state": {
+                                        "name": {
+                                            "$$str$$": "state"
+                                        },
+                                        "statecode": {
+                                            "$$str$$": "statecode"
+                                        },
+                                        "flower": {
+                                            "$$str$$": "flower"
+                                        },
+                                        "country": {
+                                            "name": {
+                                                "$$str$$": "country"
+                                            },
+                                            "$$text$$": "This {{name}}",
+                                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/_country.cmacc"
+                                        },
+                                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/_state.cmacc"
+                                    },
+                                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/_county.cmacc"
+                                },
+                                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/_city.cmacc"
+                            },
+                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/_street.cmacc"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/street/streetnum/_geo.cmacc"
+                    },
+                    "adr_Type": {
+                        "$$str$$": "adr_Type"
+                    },
+                    "pron": {
+                        "meus": {
+                            "$$str$$": "me"
+                        },
+                        "Iwe": {
+                            "$$str$$": "I"
+                        },
+                        "myour": {
+                            "$$str$$": "my"
+                        },
+                        "IWe": {
+                            "$$str$$": "I"
+                        },
+                        "MyOur": {
+                            "$$str$$": "My"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/US/_sing.cmacc"
+                    },
+                    "gender": {
+                        "he_she": {
+                            "$$str$$": "he/she"
+                        },
+                        "his_her": {
+                            "$$str$$": "his/her"
+                        },
+                        "He_She": {
+                            "$$str$$": "He/She"
+                        },
+                        "His_Her": {
+                            "$$str$$": "His/Her"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/ID/gender/_gender.cmacc"
+                    },
+                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/US/_individual.cmacc"
+                },
+                "sign_Title": {
+                    "$$str$$": "sign_Title"
+                },
+                "pron": {
+                    "meus": {
+                        "$$str$$": "me/us"
+                    },
+                    "Iwe": {
+                        "$$str$$": "I/we"
+                    },
+                    "myour": {
+                        "$$str$$": "my/our"
+                    },
+                    "IWe": {
+                        "$$str$$": "I/We"
+                    },
+                    "MyOur": {
+                        "$$str$$": "My/Our"
+                    },
+                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/US/_pron.cmacc"
+                },
+                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/US/_entity.cmacc"
+            },
+            "adr_12": {
+                "adr": {
+                    "streetnum": {
+                        "$$str$$": "streetnum"
+                    },
+                    "zip": {
+                        "$$str$$": "zip"
+                    },
+                    "street": {
+                        "name": {
+                            "$$str$$": "street"
+                        },
+                        "city": {
+                            "name": {
+                                "$$str$$": "city"
+                            },
+                            "county": {
+                                "name": {
+                                    "$$str$$": "county"
+                                },
+                                "state": {
+                                    "name": {
+                                        "$$str$$": "state"
+                                    },
+                                    "statecode": {
+                                        "$$str$$": "statecode"
+                                    },
+                                    "flower": {
+                                        "$$str$$": "flower"
+                                    },
+                                    "country": {
+                                        "name": {
+                                            "$$str$$": "country"
+                                        },
+                                        "$$text$$": "This {{name}}",
+                                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/_country.cmacc"
+                                    },
+                                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/_state.cmacc"
+                                },
+                                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/_county.cmacc"
+                            },
+                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/_city.cmacc"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/_street.cmacc"
+                    },
+                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/street/streetnum/_geo.cmacc"
+                },
+                "$$text$$": "{{adr.streetnum}} {{adr.street.name}}, {{adr.street.city.name}}, {{adr.street.city.county.state.statecode}} {{adr.zip}}\n\n\n\n\n\n\n",
+                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/_adr_12.cmacc",
+                "$$mrg$$": {
+                    "adr": {
+                        "streetnum": {
+                            "$$str$$": "streetnum"
+                        },
+                        "zip": {
+                            "$$str$$": "zip"
+                        },
+                        "street": {
+                            "name": {
+                                "$$str$$": "street"
+                            },
+                            "city": {
+                                "name": {
+                                    "$$str$$": "city"
+                                },
+                                "county": {
+                                    "name": {
+                                        "$$str$$": "county"
+                                    },
+                                    "state": {
+                                        "name": {
+                                            "$$str$$": "state"
+                                        },
+                                        "statecode": {
+                                            "$$str$$": "statecode"
+                                        },
+                                        "flower": {
+                                            "$$str$$": "flower"
+                                        },
+                                        "country": {
+                                            "name": {
+                                                "$$str$$": "country"
+                                            },
+                                            "$$text$$": "This {{name}}",
+                                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/_country.cmacc"
+                                        },
+                                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/_state.cmacc"
+                                    },
+                                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/_county.cmacc"
+                                },
+                                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/_city.cmacc"
+                            },
+                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/_street.cmacc"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/street/streetnum/_geo.cmacc"
+                    }
+                }
+            },
+            "$$text$$": "{{entity.name_Full}}, {{entity.entity_a}} whose {{entity.adr_Type}} address is {{adr_12}}\n",
+            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/US/_entity_NEA.cmacc",
+            "$$mrg$$": {
+                "entity": {
+                    "name_Full": {
+                        "$$str$$": "name_Full"
+                    },
+                    "name_Dear": {
+                        "$$str$$": "name_Dear"
+                    },
+                    "gov_ID_Num": {
+                        "$$str$$": "gov_ID_Num"
+                    },
+                    "entity_a": {
+                        "$$str$$": "entity_a"
+                    },
+                    "adr": {
+                        "streetnum": {
+                            "$$str$$": "streetnum"
+                        },
+                        "zip": {
+                            "$$str$$": "zip"
+                        },
+                        "street": {
+                            "name": {
+                                "$$str$$": "street"
+                            },
+                            "city": {
+                                "name": {
+                                    "$$str$$": "city"
+                                },
+                                "county": {
+                                    "name": {
+                                        "$$str$$": "county"
+                                    },
+                                    "state": {
+                                        "name": {
+                                            "$$str$$": "state"
+                                        },
+                                        "statecode": {
+                                            "$$str$$": "statecode"
+                                        },
+                                        "flower": {
+                                            "$$str$$": "flower"
+                                        },
+                                        "country": {
+                                            "name": {
+                                                "$$str$$": "country"
+                                            },
+                                            "$$text$$": "This {{name}}",
+                                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/_country.cmacc"
+                                        },
+                                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/_state.cmacc"
+                                    },
+                                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/_county.cmacc"
+                                },
+                                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/_city.cmacc"
+                            },
+                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/_street.cmacc"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/street/streetnum/_geo.cmacc"
+                    },
+                    "adr_Type": {
+                        "$$str$$": "adr_Type"
+                    },
+                    "contact_Name_Formal": {
+                        "$$str$$": "contact_Name_Formal"
+                    },
+                    "sign_Rep": {
+                        "name_First": {
+                            "$$str$$": "name_First"
+                        },
+                        "name_Last": {
+                            "$$str$$": "name_Last"
+                        },
+                        "name_Formal": {
+                            "$$str$$": "contact_Name_Formal"
+                        },
+                        "name_Full": {
+                            "$$str$$": "{{name_First}} {{name_Last}}"
+                        },
+                        "sign_Title": {
+                            "$$str$$": "sign_Title"
+                        },
+                        "adr": {
+                            "streetnum": {
+                                "$$str$$": "streetnum"
+                            },
+                            "zip": {
+                                "$$str$$": "zip"
+                            },
+                            "street": {
+                                "name": {
+                                    "$$str$$": "street"
+                                },
+                                "city": {
+                                    "name": {
+                                        "$$str$$": "city"
+                                    },
+                                    "county": {
+                                        "name": {
+                                            "$$str$$": "county"
+                                        },
+                                        "state": {
+                                            "name": {
+                                                "$$str$$": "state"
+                                            },
+                                            "statecode": {
+                                                "$$str$$": "statecode"
+                                            },
+                                            "flower": {
+                                                "$$str$$": "flower"
+                                            },
+                                            "country": {
+                                                "name": {
+                                                    "$$str$$": "country"
+                                                },
+                                                "$$text$$": "This {{name}}",
+                                                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/_country.cmacc"
+                                            },
+                                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/_state.cmacc"
+                                        },
+                                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/_county.cmacc"
+                                    },
+                                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/_city.cmacc"
+                                },
+                                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/_street.cmacc"
+                            },
+                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/country/state/county/city/street/streetnum/_geo.cmacc"
+                        },
+                        "adr_Type": {
+                            "$$str$$": "adr_Type"
+                        },
+                        "pron": {
+                            "meus": {
+                                "$$str$$": "me"
+                            },
+                            "Iwe": {
+                                "$$str$$": "I"
+                            },
+                            "myour": {
+                                "$$str$$": "my"
+                            },
+                            "IWe": {
+                                "$$str$$": "I"
+                            },
+                            "MyOur": {
+                                "$$str$$": "My"
+                            },
+                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/US/_sing.cmacc"
+                        },
+                        "gender": {
+                            "he_she": {
+                                "$$str$$": "he/she"
+                            },
+                            "his_her": {
+                                "$$str$$": "his/her"
+                            },
+                            "He_She": {
+                                "$$str$$": "He/She"
+                            },
+                            "His_Her": {
+                                "$$str$$": "His/Her"
+                            },
+                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/ID/gender/_gender.cmacc"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/US/_individual.cmacc"
+                    },
+                    "sign_Title": {
+                        "$$str$$": "sign_Title"
+                    },
+                    "pron": {
+                        "meus": {
+                            "$$str$$": "me/us"
+                        },
+                        "Iwe": {
+                            "$$str$$": "I/we"
+                        },
+                        "myour": {
+                            "$$str$$": "my/our"
+                        },
+                        "IWe": {
+                            "$$str$$": "I/We"
+                        },
+                        "MyOur": {
+                            "$$str$$": "My/Our"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/US/_pron.cmacc"
+                    },
+                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/US/_entity.cmacc"
+                }
+            }
+        },
+        "doc_Title": {
+            "$$str$$": "Non Disclosure Agreement"
+        },
+        "effective_Date": {
+            "$$str$$": "Effective_Date"
+        },
+        "$$text$$": "## {{doc_Title}}\n\n\nThis {{doc_Title}} (the \"Agreement\") is made as of the {{effective_Date}} by and between the parties.\n\nBy and Betweeen:\n\n{{p1_NEA}}\n\nand,\n\n{{p2_NEA}}\n\nEach a \"party\" and collectively the \"parties.\"\n\nIn consideration of the mutual promises contained in this Agreement and other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties agree as follows:\n",
+        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/US/_agt_Intro_2Parties.cmacc",
+        "$$mrg$$": {
+            "doc_Title": {
+                "$$str$$": "Non Disclosure Agreement"
+            },
+            "effective_Date": {
+                "$$str$$": "Effective_Date"
+            },
+            "P1": {
+                "name_Full": {
+                    "$$str$$": "Gerry's Grapes, LLC2"
+                },
+                "name_Dear": {
+                    "$$str$$": "Gerry's Grapes"
+                },
+                "entity_a": {
+                    "$$str$$": "a Massachusetts LLC"
+                },
+                "adr_Type": {
+                    "$$str$$": "business"
+                },
+                "claim_Response_Delay": {
+                    "$$str$$": "two business days from the date of the Claim"
+                },
+                "adr": {
+                    "streetnum": {
+                        "$$str$$": "1"
+                    },
+                    "zip": {
+                        "$$str$$": "02142"
+                    },
+                    "street": {
+                        "name": {
+                            "$$str$$": "Broadway St"
+                        },
+                        "city": {
+                            "name": {
+                                "$$str$$": "Cambridge"
+                            },
+                            "county": {
+                                "name": {
+                                    "$$str$$": "Middlesex"
+                                },
+                                "state": {
+                                    "name": {
+                                        "$$str$$": "Massachusetts"
+                                    },
+                                    "statecode": {
+                                        "$$str$$": "MA"
+                                    },
+                                    "flower": {
+                                        "$$str$$": "Mayflower"
+                                    },
+                                    "constitution": {
+                                        "$$str$$": "Constitution of the Commonwealth of Massachusetts"
+                                    },
+                                    "country": {
+                                        "name": {
+                                            "$$str$$": "United States of America"
+                                        },
+                                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA.cmacc"
+                                    },
+                                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/MA.cmacc"
+                                },
+                                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/MA/Middlesex.cmacc"
+                            },
+                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/MA/Middlesex/Cambridge.cmacc"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/MA/Middlesex/Cambridge/BroadwaySt.cmacc"
+                    },
+                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/MA/Middlesex/Cambridge/BroadwaySt/1/Geo.cmacc"
+                },
+                "sign_RepTitle": {
+                    "$$str$$": "Founder"
+                },
+                "sign_Rep": {
+                    "name_First": {
+                        "$$str$$": "Geraldine"
+                    },
+                    "name_Last": {
+                        "$$str$$": "Graber"
+                    },
+                    "name_Full": {
+                        "$$str$$": "{{name_First}} {{name_Last}}"
+                    },
+                    "name_Formal": {
+                        "$$str$$": "Ms. Graber"
+                    },
+                    "adr_Type": {
+                        "$$str$$": "business"
+                    },
+                    "email_Bus": {
+                        "$$str$$": "gerry@gerrysgrapes.com"
+                    },
+                    "adr": {
+                        "streetnum": {
+                            "$$str$$": "1"
+                        },
+                        "zip": {
+                            "$$str$$": "02142"
+                        },
+                        "street": {
+                            "name": {
+                                "$$str$$": "Broadway St"
+                            },
+                            "city": {
+                                "name": {
+                                    "$$str$$": "Cambridge"
+                                },
+                                "county": {
+                                    "name": {
+                                        "$$str$$": "Middlesex"
+                                    },
+                                    "state": {
+                                        "name": {
+                                            "$$str$$": "Massachusetts"
+                                        },
+                                        "statecode": {
+                                            "$$str$$": "MA"
+                                        },
+                                        "flower": {
+                                            "$$str$$": "Mayflower"
+                                        },
+                                        "constitution": {
+                                            "$$str$$": "Constitution of the Commonwealth of Massachusetts"
+                                        },
+                                        "country": {
+                                            "name": {
+                                                "$$str$$": "United States of America"
+                                            },
+                                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA.cmacc"
+                                        },
+                                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/MA.cmacc"
+                                    },
+                                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/MA/Middlesex.cmacc"
+                                },
+                                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/MA/Middlesex/Cambridge.cmacc"
+                            },
+                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/MA/Middlesex/Cambridge/BroadwaySt.cmacc"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/MA/Middlesex/Cambridge/BroadwaySt/1/Geo.cmacc"
+                    },
+                    "Sign_RepTitle": {
+                        "$$str$$": "Self"
+                    },
+                    "pron": {
+                        "meus": {
+                            "$$str$$": "me"
+                        },
+                        "Iwe": {
+                            "$$str$$": "I"
+                        },
+                        "myour": {
+                            "$$str$$": "my"
+                        },
+                        "IWe": {
+                            "$$str$$": "I"
+                        },
+                        "MyOur": {
+                            "$$str$$": "My"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Form/_sing.cmacc"
+                    },
+                    "gender": {
+                        "he_she": {
+                            "$$str$$": "she"
+                        },
+                        "his_her": {
+                            "$$str$$": "her"
+                        },
+                        "He_She": {
+                            "$$str$$": "She"
+                        },
+                        "His_Her": {
+                            "$$str$$": "Her"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/ID/gender/she.cmacc"
+                    },
+                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/ID/geraldine_graber.cmacc"
+                },
+                "pron": {
+                    "meus": {
+                        "$$str$$": "us"
+                    },
+                    "Iwe": {
+                        "$$str$$": "we"
+                    },
+                    "myour": {
+                        "$$str$$": "our"
+                    },
+                    "IWe": {
+                        "$$str$$": "We"
+                    },
+                    "MyOur": {
+                        "$$str$$": "Our"
+                    },
+                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Form/_plur.cmacc"
+                },
+                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/ID/gerrys_grapes_llc.cmacc"
+            },
+            "P2": {
+                "name_Full": {
+                    "$$str$$": "Safe Hands Facilitated Transactions, Inc."
+                },
+                "name_Dear": {
+                    "$$str$$": "Safe Hands Facilitated Transactions"
+                },
+                "entity_a": {
+                    "$$str$$": "a Delaware corporation"
+                },
+                "adr": {
+                    "streetnum": {
+                        "$$str$$": "1150"
+                    },
+                    "zip": {
+                        "$$str$$": "94123"
+                    },
+                    "street": {
+                        "name": {
+                            "$$str$$": "Bay St"
+                        },
+                        "city": {
+                            "name": {
+                                "$$str$$": "San Francisco"
+                            },
+                            "county": {
+                                "name": {
+                                    "$$str$$": "County of San Francisco"
+                                },
+                                "state": {
+                                    "name": {
+                                        "$$str$$": "California"
+                                    },
+                                    "statecode": {
+                                        "$$str$$": "CA"
+                                    },
+                                    "flower": {
+                                        "$$str$$": "Golden Poppy"
+                                    },
+                                    "country": {
+                                        "name": {
+                                            "$$str$$": "United States of America"
+                                        },
+                                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA.cmacc"
+                                    },
+                                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/CA.cmacc"
+                                },
+                                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/CA/San_Francisco.cmacc"
+                            },
+                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/CA/San_Francisco/San_Francisco.cmacc"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/CA/San_Francisco/San_Francisco/BaySt.cmacc"
+                    },
+                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/CA/San_Francisco/San_Francisco/BaySt/1550/Geo.cmacc"
+                },
+                "adr_Type": {
+                    "$$str$$": "principal"
+                },
+                "sign_RepTitle": {
+                    "$$str$$": "COO"
+                },
+                "sign_Rep": {
+                    "name_First": {
+                        "$$str$$": "Samuel"
+                    },
+                    "name_Last": {
+                        "$$str$$": "Hardy"
+                    },
+                    "name_Full": {
+                        "$$str$$": "{{name_First}} {{name_Last}}"
+                    },
+                    "gender": {
+                        "he_she": {
+                            "$$str$$": "he"
+                        },
+                        "his_her": {
+                            "$$str$$": "his"
+                        },
+                        "He_She": {
+                            "$$str$$": "He"
+                        },
+                        "His_Her": {
+                            "$$str$$": "His"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/ID/gender/He.cmacc"
+                    },
+                    "adr": {
+                        "streetnum": {
+                            "$$str$$": "1101"
+                        },
+                        "zip": {
+                            "$$str$$": "94103"
+                        },
+                        "street": {
+                            "name": {
+                                "$$str$$": "Mission St"
+                            },
+                            "city": {
+                                "name": {
+                                    "$$str$$": "San Francisco"
+                                },
+                                "county": {
+                                    "name": {
+                                        "$$str$$": "County of San Francisco"
+                                    },
+                                    "state": {
+                                        "name": {
+                                            "$$str$$": "California"
+                                        },
+                                        "statecode": {
+                                            "$$str$$": "CA"
+                                        },
+                                        "flower": {
+                                            "$$str$$": "Golden Poppy"
+                                        },
+                                        "country": {
+                                            "name": {
+                                                "$$str$$": "United States of America"
+                                            },
+                                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA.cmacc"
+                                        },
+                                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/CA.cmacc"
+                                    },
+                                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/CA/San_Francisco.cmacc"
+                                },
+                                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/CA/San_Francisco/San_Francisco.cmacc"
+                            },
+                            "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/CA/San_Francisco/San_Francisco/MissionSt.cmacc"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Geo/USA/CA/San_Francisco/San_Francisco/MissionSt/1101/Geo.cmacc"
+                    },
+                    "adr_Type": {
+                        "$$str$$": "business"
+                    },
+                    "sign_RepTitle": {
+                        "$$str$$": "Self"
+                    },
+                    "pron": {
+                        "meus": {
+                            "$$str$$": "me"
+                        },
+                        "Iwe": {
+                            "$$str$$": "I"
+                        },
+                        "myour": {
+                            "$$str$$": "my"
+                        },
+                        "IWe": {
+                            "$$str$$": "I"
+                        },
+                        "MyOur": {
+                            "$$str$$": "My"
+                        },
+                        "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Form/_sing.cmacc"
+                    },
+                    "name_Formal": {
+                        "$$str$$": "M. Hardy"
+                    },
+                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/ID/samuel_hardy.cmacc"
+                },
+                "pron": {
+                    "meus": {
+                        "$$str$$": "us"
+                    },
+                    "Iwe": {
+                        "$$str$$": "we"
+                    },
+                    "myour": {
+                        "$$str$$": "our"
+                    },
+                    "IWe": {
+                        "$$str$$": "We"
+                    },
+                    "MyOur": {
+                        "$$str$$": "Our"
+                    },
+                    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/Form/_plur.cmacc"
+                },
+                "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/ID/safe_hands_inc.cmacc"
+            }
+        },
+        "P1": {
+            "name_Full": {
+                "$$str$$": "Gerry's Grapes, LLC2"
+            },
+            "name_Dear": {
+                "$$str$$": "Gerry's Grapes"
+            },
+            "entity_a": {
+                "$$str$$": "a Massachusetts LLC"
+            },
+            "adr_Type": {
+                "$$str$$": "business"
+            },
+            "claim_Response_Delay": {
+                "$$str$$": "two business days from the date of the Claim"
+            },
+            "adr": {
+                "streetnum": {
+                    "$$str$$": "1"
+                },
+                "zip": {
+                    "$$str$$": "02142"
+                },
+                "street": {
+                    "name": {
+                        "$$str$$": "Broadway St"
+                    },
+                    "city": {
+                        "name": {
+                            "$$str$$": "Cambridge"
+                        },
+                        "county": {
+                            "name": {
+                                "$$str$$": "Middlesex"
+                            },
+                            "state": {
+                                "name": {
+                                    "$$str$$": "Massachusetts"
+                                },
+                                "statecode": {
+                                    "$$str$$": "MA"
+                                },
+                                "flower": {
+                                    "$$str$$": "Mayflower"
+                                },
+                                "constitution": {
+                                    "$$str$$": "Constitution of the Commonwealth of Massachusetts"
+                                },
+                                "country": {
+                                    "name": {
+                                        "$$str$$": "United States of America"
+                                    },
+                                    "$$file$$": {}
+                                },
+                                "$$file$$": {}
+                            },
+                            "$$file$$": {}
+                        },
+                        "$$file$$": {}
+                    },
+                    "$$file$$": {}
+                },
+                "$$file$$": {}
+            },
+            "sign_RepTitle": {
+                "$$str$$": "Founder"
+            },
+            "sign_Rep": {
+                "name_First": {
+                    "$$str$$": "Geraldine"
+                },
+                "name_Last": {
+                    "$$str$$": "Graber"
+                },
+                "name_Full": {
+                    "$$str$$": "{{name_First}} {{name_Last}}"
+                },
+                "name_Formal": {
+                    "$$str$$": "Ms. Graber"
+                },
+                "adr_Type": {
+                    "$$str$$": "business"
+                },
+                "email_Bus": {
+                    "$$str$$": "gerry@gerrysgrapes.com"
+                },
+                "adr": {
+                    "streetnum": {
+                        "$$str$$": "1"
+                    },
+                    "zip": {
+                        "$$str$$": "02142"
+                    },
+                    "street": {
+                        "name": {
+                            "$$str$$": "Broadway St"
+                        },
+                        "city": {
+                            "name": {
+                                "$$str$$": "Cambridge"
+                            },
+                            "county": {
+                                "name": {
+                                    "$$str$$": "Middlesex"
+                                },
+                                "state": {
+                                    "name": {
+                                        "$$str$$": "Massachusetts"
+                                    },
+                                    "statecode": {
+                                        "$$str$$": "MA"
+                                    },
+                                    "flower": {
+                                        "$$str$$": "Mayflower"
+                                    },
+                                    "constitution": {
+                                        "$$str$$": "Constitution of the Commonwealth of Massachusetts"
+                                    },
+                                    "country": {
+                                        "name": {
+                                            "$$str$$": "United States of America"
+                                        },
+                                        "$$file$$": {}
+                                    },
+                                    "$$file$$": {}
+                                },
+                                "$$file$$": {}
+                            },
+                            "$$file$$": {}
+                        },
+                        "$$file$$": {}
+                    },
+                    "$$file$$": {}
+                },
+                "Sign_RepTitle": {
+                    "$$str$$": "Self"
+                },
+                "pron": {
+                    "meus": {
+                        "$$str$$": "me"
+                    },
+                    "Iwe": {
+                        "$$str$$": "I"
+                    },
+                    "myour": {
+                        "$$str$$": "my"
+                    },
+                    "IWe": {
+                        "$$str$$": "I"
+                    },
+                    "MyOur": {
+                        "$$str$$": "My"
+                    },
+                    "$$file$$": {}
+                },
+                "gender": {
+                    "he_she": {
+                        "$$str$$": "she"
+                    },
+                    "his_her": {
+                        "$$str$$": "her"
+                    },
+                    "He_She": {
+                        "$$str$$": "She"
+                    },
+                    "His_Her": {
+                        "$$str$$": "Her"
+                    },
+                    "$$file$$": {}
+                },
+                "$$file$$": {}
+            },
+            "pron": {
+                "meus": {
+                    "$$str$$": "us"
+                },
+                "Iwe": {
+                    "$$str$$": "we"
+                },
+                "myour": {
+                    "$$str$$": "our"
+                },
+                "IWe": {
+                    "$$str$$": "We"
+                },
+                "MyOur": {
+                    "$$str$$": "Our"
+                },
+                "$$file$$": {}
+            },
+            "$$file$$": {}
+        },
+        "P2": {
+            "name_Full": {
+                "$$str$$": "Safe Hands Facilitated Transactions, Inc."
+            },
+            "name_Dear": {
+                "$$str$$": "Safe Hands Facilitated Transactions"
+            },
+            "entity_a": {
+                "$$str$$": "a Delaware corporation"
+            },
+            "adr": {
+                "streetnum": {
+                    "$$str$$": "1150"
+                },
+                "zip": {
+                    "$$str$$": "94123"
+                },
+                "street": {
+                    "name": {
+                        "$$str$$": "Bay St"
+                    },
+                    "city": {
+                        "name": {
+                            "$$str$$": "San Francisco"
+                        },
+                        "county": {
+                            "name": {
+                                "$$str$$": "County of San Francisco"
+                            },
+                            "state": {
+                                "name": {
+                                    "$$str$$": "California"
+                                },
+                                "statecode": {
+                                    "$$str$$": "CA"
+                                },
+                                "flower": {
+                                    "$$str$$": "Golden Poppy"
+                                },
+                                "country": {
+                                    "name": {
+                                        "$$str$$": "United States of America"
+                                    },
+                                    "$$file$$": {}
+                                },
+                                "$$file$$": {}
+                            },
+                            "$$file$$": {}
+                        },
+                        "$$file$$": {}
+                    },
+                    "$$file$$": {}
+                },
+                "$$file$$": {}
+            },
+            "adr_Type": {
+                "$$str$$": "principal"
+            },
+            "sign_RepTitle": {
+                "$$str$$": "COO"
+            },
+            "sign_Rep": {
+                "name_First": {
+                    "$$str$$": "Samuel"
+                },
+                "name_Last": {
+                    "$$str$$": "Hardy"
+                },
+                "name_Full": {
+                    "$$str$$": "{{name_First}} {{name_Last}}"
+                },
+                "gender": {
+                    "he_she": {
+                        "$$str$$": "he"
+                    },
+                    "his_her": {
+                        "$$str$$": "his"
+                    },
+                    "He_She": {
+                        "$$str$$": "He"
+                    },
+                    "His_Her": {
+                        "$$str$$": "His"
+                    },
+                    "$$file$$": {}
+                },
+                "adr": {
+                    "streetnum": {
+                        "$$str$$": "1101"
+                    },
+                    "zip": {
+                        "$$str$$": "94103"
+                    },
+                    "street": {
+                        "name": {
+                            "$$str$$": "Mission St"
+                        },
+                        "city": {
+                            "name": {
+                                "$$str$$": "San Francisco"
+                            },
+                            "county": {
+                                "name": {
+                                    "$$str$$": "County of San Francisco"
+                                },
+                                "state": {
+                                    "name": {
+                                        "$$str$$": "California"
+                                    },
+                                    "statecode": {
+                                        "$$str$$": "CA"
+                                    },
+                                    "flower": {
+                                        "$$str$$": "Golden Poppy"
+                                    },
+                                    "country": {
+                                        "name": {
+                                            "$$str$$": "United States of America"
+                                        },
+                                        "$$file$$": {}
+                                    },
+                                    "$$file$$": {}
+                                },
+                                "$$file$$": {}
+                            },
+                            "$$file$$": {}
+                        },
+                        "$$file$$": {}
+                    },
+                    "$$file$$": {}
+                },
+                "adr_Type": {
+                    "$$str$$": "business"
+                },
+                "sign_RepTitle": {
+                    "$$str$$": "Self"
+                },
+                "pron": {
+                    "meus": {
+                        "$$str$$": "me"
+                    },
+                    "Iwe": {
+                        "$$str$$": "I"
+                    },
+                    "myour": {
+                        "$$str$$": "my"
+                    },
+                    "IWe": {
+                        "$$str$$": "I"
+                    },
+                    "MyOur": {
+                        "$$str$$": "My"
+                    },
+                    "$$file$$": {}
+                },
+                "name_Formal": {
+                    "$$str$$": "M. Hardy"
+                },
+                "$$file$$": {}
+            },
+            "pron": {
+                "meus": {
+                    "$$str$$": "us"
+                },
+                "Iwe": {
+                    "$$str$$": "we"
+                },
+                "myour": {
+                    "$$str$$": "our"
+                },
+                "IWe": {
+                    "$$str$$": "We"
+                },
+                "MyOur": {
+                    "$$str$$": "Our"
+                },
+                "$$file$$": {}
+            },
+            "$$file$$": {}
+        }
+    },
+    "$$text$$": "{{intro}}\n",
+    "$$file$$": "file:///Users/Marc/SkyDrive/Documents/CommonAccord/cmacc-test/NDA/NDA_Mutual_test.cmacc"
+}

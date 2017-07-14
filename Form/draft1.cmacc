@@ -1,0 +1,37 @@
+$ party1 = [../ID/Marc_Dangeard.cmacc]
+
+$ party2 = [../ID/James_Hazard.cmacc]
+
+$ intro = [./intro.cmacc]
+
+$ what = [./what.cmacc]
+
+$ misc = [./general_clauses.cmacc]
+
+$ who = [./who.cmacc]
+
+$ closing = [./closing.cmacc]
+
+{{intro}}
+
+ 1. {{who}}
+
+ 2. {{what}}
+
+ 3. {{misc.clause1}}
+
+{{closing}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
