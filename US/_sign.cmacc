@@ -11,7 +11,6 @@ $ sign_Date = "Date"
 Role: {{role}}
 
 Name: {{person.name_Full}}  
-
 Date: {{sign_Date}}
 
 
