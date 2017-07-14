@@ -1,10 +1,10 @@
-$ name_First = "name_First"
+$ firstName = "name_First"
 
-$ name_Last = "name_Last"
+$ lastName = "name_Last"
 
-$ name_Formal = "contact_Name_Formal"
+$ formalName = "contact_Name_Formal"
 
-$ name_Full = "{{name_First}} {{name_Last}}"
+$ fullName = "{{name_First}} {{name_Last}}"
 
 $ sign_Title = "sign_Title"
 

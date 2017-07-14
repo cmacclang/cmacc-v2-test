@@ -2,15 +2,18 @@ $ role = "Role"
 
 $ person = [../ID/_individual.cmacc]
 
-$ sign_Place = "Place"
+$ signPlace = "Place"
 
-$ sign_Date = "Date"
+$ signDate = "Date"
 
 // Document
 
 Role: {{role}}
 
-Name: {{person.name_Full}}  
-Date: {{sign_Date}}
+Name: {{person.fullName}}  
+
+Date: {{signDate}}
+
+Place: {{signPlace}}
 
 

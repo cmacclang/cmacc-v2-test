@@ -1,15 +1,10 @@
-$ party2 = [../ID/WillemVeelenturf.cmacc];
+// Changing the name of party1 in draft2
 
-$ content = [../Form/draft1.cmacc] => {
-	"who" :{
-	    "party2": party2
-	},
-	"closing" :{
-	    "signParty2":{
-	   	 "person": party2
-	    }
-	}
-};
+$ party1 = [../ID/James_Hazard.cmacc]
+
+$ content = [../Form/draft2.cmacc]
+$ content.content.party1 = party1
+
+// Document
 
 {{content}}
-

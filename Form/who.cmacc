@@ -2,4 +2,4 @@ $ party1 = [../US/_entity.cmacc]
 
 $ party2 = [../US/_entity.cmacc]
 
-This agreement is between {{party1.name_Full}} and {{party2.name_Full}}
+This agreement is between {{party1.fullName}} and {{party2.fullName}}

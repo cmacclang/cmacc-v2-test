@@ -1,3 +1,5 @@
+// Initial document
+
 $ party1 = [../ID/Marc_Dangeard.cmacc]
 
 $ party2 = [../ID/James_Hazard.cmacc]
@@ -8,9 +10,17 @@ $ what = [./what.cmacc]
 
 $ misc = [./general_clauses.cmacc]
 
+$ genClause ="{{misc.clause1}}"
+
 $ who = [./who.cmacc]
+$ who.party1 = party1
+$ who.party2 = party2
 
 $ closing = [./closing.cmacc]
+$ closing.party1 = party1
+$ closing.party2 = party2
+
+// Document
 
 {{intro}}
 
@@ -18,9 +28,10 @@ $ closing = [./closing.cmacc]
 
  2. {{what}}
 
- 3. {{misc.clause1}}
+ 3. {{genClause}}
 
-{{closing}}
+ {{closing}}
+
 
 
 

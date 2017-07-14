@@ -1,29 +1,10 @@
-$ party1 = [../ID/MarcDangeard.cmacc];
+// Changing the name of party2
 
-$ party2 = [../ID/WillemVeelenturf.cmacc];
+$ party2 = [../ID/Willem_Veelenturf.cmacc]
 
-$ intro = [../Form/intro.cmacc];
+$ content = [../Form/draft1.cmacc]
+$ content.party2 = party2
 
-$ who = [../Form/who.cmacc] => {
-	"party1" : party1,
-	"party2" : party2
-};
-
-$ what = [./what.cmacc];
-
-$ misc = [./general_clauses.cmacc];
-
-$ closing = [../Form/closing.cmacc] => {
-    "party1" : party1,
-    "party2": party2
-};
-
-$ content = [../Form/draft1.cmacc] => {
-	"intro" : intro,
-	"what" : what,
-	"misc" : misc,
-	"closing" : closing
-};
+// Document
 
 {{content}}
-
