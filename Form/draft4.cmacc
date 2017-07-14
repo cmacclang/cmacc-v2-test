@@ -1,19 +1,19 @@
-// Replacing misc clause 1 by misc clause 2 and 3
+// Replacing misc clause 1 in draft1 by misc clause 2 and 3
 
-$ content = [../Form/draft1.cmacc]
+$ misc = [../Form/general_clauses.cmacc]
 
-$ misc = [../Form/general_clauses.cmacc];
+$ contentDraft3 = [../Form/draft3.cmacc]
 
-{{intro}}
+$ contentDraft = contentDraft3.contentDraft2.contentDraft1
 
- 1. {{content.who}}
+{{contentDraft.intro}}
 
- 2. {{misc.clause2}}
+ 1. {{contentDraft.who}}
 
- 3. {{misc.clause4}}
+ 2. {{contentDraft.what}}
 
-{{content.closing}}
+ 3. {{misc.clause2}}
+ 
+ 4. {{misc.clause3}}
 
-
-
-
+ {{contentDraft.closing}}

@@ -10,6 +10,8 @@ $ what = [./what.cmacc]
 
 $ misc = [./general_clauses.cmacc]
 
+$ genClause = misc.clause1
+
 $ who = [./who.cmacc]
 $ who.party1 = party1
 $ who.party2 = party2
@@ -26,7 +28,7 @@ $ closing.party2 = party2
 
  2. {{what}}
 
- 3. {{misc.clause1}}
+ 3. {{genClause}}
 
  {{closing}}
 

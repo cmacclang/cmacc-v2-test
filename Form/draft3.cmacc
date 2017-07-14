@@ -2,9 +2,9 @@
 
 $ party1 = [../ID/James_Hazard.cmacc]
 
-$ content = [../Form/draft2.cmacc]
-$ content.content.party1 = party1
+$ contentDraft2 = [../Form/draft2.cmacc]
+$ contentDraft2.contentDraft1.party1 = party1
 
 // Document
 
-{{content}}
+{{contentDraft2}}

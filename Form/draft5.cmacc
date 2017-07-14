@@ -1,33 +1,26 @@
-$ party1 = [../ID/MarcDangeard.cmacc];
+// Replacing party 1 and clause 2 and 3 by clause 4 and 5
 
-$ party2 = [../ID/WillemVeelenturf.cmacc];
+$ party1 = [../ID/Marc_Dangeard.cmacc]
 
-$ content = [../Form/draft3.cmacc] => {
-	"party2" : party2
-};
+$ contentDraft4 = [../Form/draft4.cmacc]
 
-$ intro = [../Form/intro.cmacc];
+$ contentDraft4.contentDraft3.party1 = party1
 
-$ who = [../Form/who.cmacc] => {
-	"party1" : party1,
-	"party2" : party2
-};
+$ contentDraft = contentDraft4.contentDraft3.contentDraft2.contentDraft1
 
-$ misc = [../Form/general_clauses.cmacc];
+$ misc = [../Form/general_clauses.cmacc]
 
-$ closing = [../Form/closing.cmacc] => {
-	"party1" : party1,
-	"party2" : party2
-};
+{{contentDraft.intro}}
 
-{{intro}}
+ 1. {{contentDraft.who}}
 
-1. {{who}}
+ 2. {{contentDraft.what}}
 
-2. {{misc.clause3}}
+ 3. {{misc.clause4}}
+ 
+ 4. {{misc.clause5}}
 
-3. {{misc.clause5}}
-
-{{closing}}
+ {{contentDraft.closing}}
 
 
+ 
